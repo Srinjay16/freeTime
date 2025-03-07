@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Tic_Tac_Toe
+comment1.params=
+comment1.target=Tic_Tac_Toe()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=
+comment3.target=void\ game()
+comment4.params=n
+comment4.target=void\ user(java.lang.String)
+comment5.params=
+comment5.target=void\ computer()
+comment6.params=j\ cr\ d
+comment6.target=void\ replace(char,\ char[][],\ char)
+comment7.params=cr
+comment7.target=void\ result(char[][])
+comment8.params=cr\ c\ d\ l
+comment8.target=boolean\ check(char[][],\ int,\ int,\ char)
+numComments=9
