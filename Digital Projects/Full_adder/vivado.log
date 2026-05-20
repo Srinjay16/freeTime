@@ -1,0 +1,37 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Wed May 20 12:24:42 2026
+# Process ID         : 400
+# Current directory  : D:/Digital Projects/Full_adder
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent22200 D:\Digital Projects\Full_adder\Full_adder.xpr
+# Log file           : D:/Digital Projects/Full_adder/vivado.log
+# Journal file       : D:/Digital Projects/Full_adder\vivado.jou
+# Running On         : LAPTOP-SRINJAY
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : 12th Gen Intel(R) Core(TM) i5-12450H
+# CPU Frequency      : 2496 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 12
+# Host memory        : 16802 MB
+# Swap memory        : 7247 MB
+# Total Virtual      : 24050 MB
+# Available Virtual  : 3304 MB
+#-----------------------------------------------------------
+start_gui
+open_project {D:/Digital Projects/Full_adder/Full_adder.xpr}
+INFO: [Project 1-313] Project file moved from 'C:/Users/SRINJAY/Full_adder' since last save.
+INFO: [filemgmt 56-1] Board Part Repository Path: Directory not found as 'D:/Digital Projects/AppData/Roaming/Xilinx/Vivado/2024.2/xhub/board_store/xilinx_board_store'; using path 'C:/Users/SRINJAY/AppData/Roaming/Xilinx/Vivado/2024.2/xhub/board_store/xilinx_board_store' instead.
+INFO: [filemgmt 56-3] Default IP Output Path : Could not find the directory 'D:/Digital Projects/Full_adder/Full_adder.gen/sources_1'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2024.2/data/ip'.
+open_project: Time (s): cpu = 00:00:18 ; elapsed = 00:00:09 . Memory (MB): peak = 1249.621 ; gain = 140.379
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Wed May 20 12:33:02 2026...

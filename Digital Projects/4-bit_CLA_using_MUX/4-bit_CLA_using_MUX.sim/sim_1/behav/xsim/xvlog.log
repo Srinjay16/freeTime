@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/SRINJAY/4-bit_CLA_using_MUX/4-bit_CLA_using_MUX.srcs/sources_1/new/4-bit_CLA_using_MUX.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux2to1
+INFO: [VRFC 10-311] analyzing module mux_and
+INFO: [VRFC 10-311] analyzing module mux_or
+INFO: [VRFC 10-311] analyzing module mux_xor
+INFO: [VRFC 10-311] analyzing module cla_4bit_mux
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/SRINJAY/4-bit_CLA_using_MUX/4-bit_CLA_using_MUX.srcs/sim_1/new/tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb

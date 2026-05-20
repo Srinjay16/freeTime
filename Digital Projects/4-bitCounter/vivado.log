@@ -1,0 +1,41 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Mon May 18 20:53:36 2026
+# Process ID         : 26572
+# Current directory  : C:/Users/SRINJAY/4-bitCounter
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent27032 C:\Users\SRINJAY\4-bitCounter\4-bitCounter.xpr
+# Log file           : C:/Users/SRINJAY/4-bitCounter/vivado.log
+# Journal file       : C:/Users/SRINJAY/4-bitCounter\vivado.jou
+# Running On         : LAPTOP-SRINJAY
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : 12th Gen Intel(R) Core(TM) i5-12450H
+# CPU Frequency      : 2496 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 12
+# Host memory        : 16802 MB
+# Swap memory        : 7756 MB
+# Total Virtual      : 24558 MB
+# Available Virtual  : 4135 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/SRINJAY/4-bitCounter/4-bitCounter.xpr
+INFO: [filemgmt 56-3] Default IP Output Path : Could not find the directory 'C:/Users/SRINJAY/4-bitCounter/4-bitCounter.gen/sources_1'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2024.2/data/ip'.
+open_project: Time (s): cpu = 00:00:33 ; elapsed = 00:00:17 . Memory (MB): peak = 1259.234 ; gain = 167.859
+update_compile_order -fileset sources_1
+launch_runs impl_1 -jobs 6
+[Mon May 18 21:13:47 2026] Launched impl_1...
+Run output will be captured here: C:/Users/SRINJAY/4-bitCounter/4-bitCounter.runs/impl_1/runme.log
+launch_runs impl_1 -to_step write_bitstream -jobs 6
+[Mon May 18 21:16:46 2026] Launched impl_1...
+Run output will be captured here: C:/Users/SRINJAY/4-bitCounter/4-bitCounter.runs/impl_1/runme.log
+exit
+INFO: [Common 17-206] Exiting Vivado at Mon May 18 21:33:42 2026...

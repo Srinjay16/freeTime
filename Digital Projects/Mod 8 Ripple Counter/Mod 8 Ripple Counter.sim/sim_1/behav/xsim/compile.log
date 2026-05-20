@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/SRINJAY/Mod 8 Ripple Counter/Mod 8 Ripple Counter.srcs/sources_1/new/Mod8RippleCounter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module jkff
+INFO: [VRFC 10-311] analyzing module Mod8RippleCounter
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/SRINJAY/Mod 8 Ripple Counter/Mod 8 Ripple Counter.srcs/sim_1/new/Mod8RippleTestbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Mod8RippleTestbench

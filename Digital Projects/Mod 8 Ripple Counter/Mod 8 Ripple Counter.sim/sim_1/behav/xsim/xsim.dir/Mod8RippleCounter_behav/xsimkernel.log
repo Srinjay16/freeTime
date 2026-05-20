@@ -1,0 +1,7 @@
+Running: xsim.dir/Mod8RippleCounter_behav/xsimk.exe -simmode gui -wdb Mod8RippleCounter_behav.wdb -simrunnum 0 -socket 50440
+Design successfully loaded
+Design Loading Memory Usage: 29428 KB (Peak: 29428 KB)
+Design Loading CPU Usage: 1031 ms
+Simulation completed
+Simulation Memory Usage: 30296 KB (Peak: 30296 KB)
+Simulation CPU Usage: 1186 ms

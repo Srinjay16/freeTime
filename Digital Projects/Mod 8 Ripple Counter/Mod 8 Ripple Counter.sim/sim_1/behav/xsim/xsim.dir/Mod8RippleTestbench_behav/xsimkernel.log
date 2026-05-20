@@ -1,0 +1,7 @@
+Running: xsim.dir/Mod8RippleTestbench_behav/xsimk.exe -simmode gui -wdb Mod8RippleTestbench_behav.wdb -simrunnum 0 -socket 59585
+Design successfully loaded
+Design Loading Memory Usage: 28640 KB (Peak: 28640 KB)
+Design Loading CPU Usage: 1062 ms
+Simulation completed
+Simulation Memory Usage: 29508 KB (Peak: 29508 KB)
+Simulation CPU Usage: 1155 ms

@@ -1,0 +1,26 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Wed May 20 12:24:42 2026
+# Process ID         : 400
+# Current directory  : D:/Digital Projects/Full_adder
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent22200 D:\Digital Projects\Full_adder\Full_adder.xpr
+# Log file           : D:/Digital Projects/Full_adder/vivado.log
+# Journal file       : D:/Digital Projects/Full_adder\vivado.jou
+# Running On         : LAPTOP-SRINJAY
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : 12th Gen Intel(R) Core(TM) i5-12450H
+# CPU Frequency      : 2496 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 12
+# Host memory        : 16802 MB
+# Swap memory        : 7247 MB
+# Total Virtual      : 24050 MB
+# Available Virtual  : 3304 MB
+#-----------------------------------------------------------
+start_gui
+open_project {D:/Digital Projects/Full_adder/Full_adder.xpr}
+update_compile_order -fileset sources_1

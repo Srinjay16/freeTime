@@ -1,0 +1,12 @@
+Time resolution is 1 ps
+Time	A	B	Cin		|	Sum	Cout
+--------------------------------------------------
+10000	0000	0000	0	|	0000	0
+20000	0001	0010	0	|	0011	0
+30000	0101	0011	0	|	0100	0
+40000	1111	0001	0	|	1100	0
+50000	1111	1111	0	|	1110	1
+60000	1010	0101	1	|	1110	0
+70000	1001	0110	1	|	1110	0
+80000	1111	1111	1	|	1111	1
+$finish called at time : 80 ns : File "C:/Users/SRINJAY/4-bit_CLA_using_MUX/4-bit_CLA_using_MUX.srcs/sim_1/new/tb.v" Line 53

@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Fri Jun 13 13:13:49 2025
+# Process ID         : 19248
+# Current directory  : C:/Users/SRINJAY/Mod 8 Ripple Counter/Mod 8 Ripple Counter.runs/impl_1
+# Command line       : vivado.exe -log Mod8RippleCounter.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Mod8RippleCounter.tcl -notrace
+# Log file           : C:/Users/SRINJAY/Mod 8 Ripple Counter/Mod 8 Ripple Counter.runs/impl_1/Mod8RippleCounter.vdi
+# Journal file       : C:/Users/SRINJAY/Mod 8 Ripple Counter/Mod 8 Ripple Counter.runs/impl_1\vivado.jou
+# Running On         : LAPTOP-SRINJAY
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : 12th Gen Intel(R) Core(TM) i5-12450H
+# CPU Frequency      : 2496 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 12
+# Host memory        : 16802 MB
+# Swap memory        : 1073 MB
+# Total Virtual      : 17876 MB
+# Available Virtual  : 3314 MB
+#-----------------------------------------------------------
+source Mod8RippleCounter.tcl -notrace
